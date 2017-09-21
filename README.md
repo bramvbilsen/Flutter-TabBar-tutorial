@@ -1,6 +1,5 @@
-# tutorial
-
-A new flutter project.
+# Flutter Tabbar tutorial
+The video tutorial for this repo can be found here: https://youtu.be/3N27mjoBK2k
 
 ## Getting Started
 
